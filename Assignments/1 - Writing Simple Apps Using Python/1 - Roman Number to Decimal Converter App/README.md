@@ -6,6 +6,7 @@ This app uses a simple GUI to take input from a user which is expected to be a r
 - [Requirements](#requirements)
 - [How to Run](#how-to-run)
 - [App Usage Example](#app-usage-example)
+- [Blog](#blog)
 ---
 
 ## Requirements
@@ -58,3 +59,6 @@ Put a Roman number in the input line and click on the **Convert** button to see 
 
 * When the **Quit** button or close window is clicked, message box appears to make sure user wants to close the app<br />
 <br />![quit](https://user-images.githubusercontent.com/53794602/134482400-3c9f4acc-007a-4e39-8a3f-301f5f4bd873.png)<br />
+
+## Blog
+You can follow [this link](https://www.datainsightonline.com/post/roman-number-to-decimal-converter-app) to see my blog on Data Insight where I have explained all the details of the code
