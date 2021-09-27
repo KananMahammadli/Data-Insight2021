@@ -6,6 +6,7 @@ This app uses a simple user-friendly GUI to take input from the user and checks 
 - [Requirements](#requirements)
 - [How to Run](#how-to-run)
 - [App Usage Example](#app-usage-example)
+- [Blog](#blog)
 ---
 
 
@@ -60,3 +61,6 @@ Put an integer in the input line and click on the **Check** button to see the re
 
 * When the **Quit** button or close sign is clicked it asks the user whether he/she is sure about to close the app with the help of the message box<br />
 <br />![armstrong_quit](https://user-images.githubusercontent.com/53794602/134507711-190192b0-3744-4527-b595-d2f161a03f3b.png)<br />
+
+## Blog
+You can follow [this link](https://www.datainsightonline.com/post/armstrong-number-checker-app) to see my blog on Data Insight where I have explained all the details of the code.
