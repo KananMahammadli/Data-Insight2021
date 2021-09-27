@@ -4,7 +4,7 @@ This repository is for Data Insight 2021 - Data Scientist Program Assignments an
 ## Table of Contents
 - [Program Overview](#program-overview)
 - [Course Highlight](#course-highlight)
-- [Assignments and Projects](#assignments-and-projects)
+- [Projects](#projects)
 - [2021 Data Insight Scholarship Awardees](#2021-data-insight-scholarship-awardees)
 
 ## Program Overview
@@ -32,7 +32,7 @@ Courses in the Data Scientist Program are developed by data science experts in i
 - Deep Learning
 - Neural Networks
 
-## Assignments and Projects
+## Projects
 The projects in the Data Scientist Program will equip you with hands-on experience for solving real-world problems while building your data science portfolio.
 
 - 8 Practical course-based projects
